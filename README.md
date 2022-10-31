@@ -5,3 +5,4 @@ Generate new antlr4-runtime files with
 ```
 $ antlr4 -Dlanguage=Cpp -o antlr4-runtime Expr.g4
 ```
+<img src="./SampleRun.png" width=800px/>
